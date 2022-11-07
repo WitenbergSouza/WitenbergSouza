@@ -33,7 +33,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-   <a href="https://github.com/shadomal">
+   <a href="https://github.com/WitzRed">
   <img src="https://github.com/WitzRed/witzred-stats.github.io/blob/main/stats.svg" height="180em">
   <img src="https://github.com/WitzRed/witzred-stats.github.io/blob/main/languages.svg" height="180em">
 </a>
@@ -43,7 +43,7 @@
 ## My Work
   - Angular Base Project(hobby) A complete set of angular code modules applied to a website example. [repository](https://github.com/WitzRed/angular-base-project)
   - AutoBloid Application(Collab Project), A comprehensive system to manager business catalogs - Private repository
-  -  Machine Learning VS Deep Learning Insect Classifier. An <a href="https://medium.com/p/a9ff21349d99">article on Medium </a> for Deep Learning Brasilia) [repository](https://github.com/WitzRed/Machine-Learning-VS-Deep-Learning-Insects-Classifier)
+  -  Machine Learning VS Deep Learning Insect Classifier. An <a href="https://medium.com/p/a9ff21349d99" target="_blank" rel="noreferrer">article on Medium </a> for Deep Learning Brasilia) [repository](https://github.com/WitzRed/Machine-Learning-VS-Deep-Learning-Insects-Classifier)
   
 ## 🏆 Skills
   
