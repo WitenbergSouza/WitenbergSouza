@@ -49,7 +49,7 @@
   
   ## 🛠 Hard
   - Machine Learning with Python - Web Apps, Embedded Systems, Desktop Apps
-  - WEB Development with HTML, CSS, Javascript and Angular
+  - WEB Development with HTML, CSS, JavaScript and Angular
   - Programming Languages: JavaScript, Python, C++
   - DataBases: SQL
   - FrameWorks: Pytorch, Tensorflow, Django, Node JS
