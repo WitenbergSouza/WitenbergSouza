@@ -33,7 +33,10 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-   <iframe src="https://witzred.github.io/witzred-stats.github.io/"></iframe>
+   <a href="https://github.com/shadomal">
+  <img src="https://github.com/WitzRed/witzred-stats.github.io/blob/main/index.svg" height="180em">
+  <img src="https://github.com/WitzRed/witzred-stats.github.io/blob/main/languages.svg" height="180em">
+</a>
 </div>
 
 
