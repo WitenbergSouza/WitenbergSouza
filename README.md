@@ -1,10 +1,10 @@
  ### Hi there 👋 I am Witenberg Souza \o/
 
 ## About me
-   > Houdie ! My name is Witenbeg Souza, AKA WitzRed. I have a Master's in Electrical Engineering  through Northern Illinois Univrsity. My focus is on Statistical Detection Theory and Machine Leanring.
+   > Houdie ! My name is Witenbeg Souza, AKA WitzRed. I have a Master's in Electrical Engineering  through Northern Illinois University. My focus is on Statistical Detection Theory and Machine Learning.
    
   #### What are my hobbies?
-   > I believe no one can be dfined by only one aspect of their lives. Thus, I am always experimenting... creating new  engineering projects, sharing ideas, diving into collabs.
+   > I believe no one can be defined by only one aspect of their lives. Thus, I am always experimenting... creating new engineering projects, sharing ideas, diving into collabs, testing my embbeded devices, and when I have some spare time, trying new recipies in the kitchen.
    
   #### My Courses and certificates
    >  - HIGHER EDUCATION INSTITUTE OF BRASILIA - IESB
@@ -12,7 +12,7 @@
          - GRADUATED: 2016
          
    >  - UNIVERSITY OF BRASILIA - UnB
-         - MECHTRONIC SYSTEMS ENGINEERING - MASTER OF SCIENCE
+         - MECHATRONIC SYSTEMS ENGINEERING - MASTER OF SCIENCE
          - GRADUATED: 2019
          
    >  - HIGHER EDUCATION INSTITUTE OF BRASILIA - IESB
@@ -20,14 +20,14 @@
          - GRADUATED: 2016 - VALEDICTORIAN
   
    >  - ILLINOIS INSTITUTE OF TECHNOLOGY - IIT
-         - ELECTRICAL ENGINEERING - STUDY ABROAD / UNDERGRAD CREDIT EARNED
+         - ELECTRICAL ENGINEERING - STUDY ABROAD / UNDERGRADUATE CREDIT EARNED
          - PERIOD: 2014 - 2015
         
    >  - COURSERA
         - DEEP LEARNING SPECIALIZATION
         - Finished Year: 2022
   
-  >  - SERZELLO CORREA INSTITUTE, AUDIT COURT OF BRAZIL
+  >  - SERZEDELLO CORREA INSTITUTE, AUDIT COURT OF BRAZIL
         - DEEP LEARNING FOR CODERS
         - Finished Year: 2018        
 -------------------------------------------------------------------------------------------------------------------------------------------------------
