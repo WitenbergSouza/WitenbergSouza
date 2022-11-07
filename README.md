@@ -33,8 +33,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-  <a href="https://github.com/WitzRed">
-  <img height="180em" src="https://witzred.github.io/witzred-stats.github.io/"/>
+   <iframe src="https://witzred.github.io/witzred-stats.github.io/"></iframe>
 </div>
 
 
