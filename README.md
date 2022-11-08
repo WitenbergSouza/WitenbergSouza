@@ -47,7 +47,7 @@
   
 ## 🏆 Skills
   
-  ## 🛠 Hard
+  ### 🛠 Hard
   - Machine Learning with Python - Web Apps, Embedded Systems, Desktop Apps
   - WEB Development with HTML, CSS, JavaScript and Angular
   - Programming Languages: JavaScript, Python, C++
@@ -55,7 +55,7 @@
   - FrameWorks: Pytorch, Tensorflow, Django, Node JS
   - Robotics
   
-  ## 👨🏻‍🔧 Soft
+  ### 👨🏻‍🔧 Soft
   - 🥇Leadership
   - 🤝Sociable
   - 👊Proactivity
@@ -63,7 +63,7 @@
   - ✍️Participative
   - 🔭Visionary
   
-  ## Languages
+  ### Languages
   - I am a native Brazilian Portuguese speaker, but no worries, I speak English on a daily basis.
   
 >-------------------------------------------------------------------------------------------------------------------------------------------------------
