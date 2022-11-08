@@ -29,7 +29,7 @@
   
   >  - SERZEDELLO CORREA INSTITUTE, AUDIT COURT OF BRAZIL
         - DEEP LEARNING FOR CODERS
-        - Finished Year: 2018        
+        - Finished Year: 2019        
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
