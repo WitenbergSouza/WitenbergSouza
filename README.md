@@ -64,7 +64,7 @@
   - 🔭Visionary
   
   ## Languages
-  - I am native Brazlian Portuguese speaker, but no worries, I speak English on a dealy basis.
+  - I am a native Brazilian Portuguese speaker, but no worries, I speak English on a daily basis.
   
 >-------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📬 Contact
