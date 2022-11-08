@@ -7,9 +7,9 @@
    > I believe no one can be defined by only one aspect of their lives. Thus, I am always experimenting... creating new engineering projects, sharing ideas, diving into collabs, testing my embbeded devices, and when I have some spare time, trying new recipies in the kitchen.
    
   #### My Courses and certificates
-   >  - HIGHER EDUCATION INSTITUTE OF BRASILIA - IESB
-         - ELECTRICAL ENGINEERING - BACHELOR
-         - GRADUATED: 2016
+   >  - NORTHERN ILLINOIS UNIVERSITY - NIU
+         - ELECTRICAL ENGINEERING - MASTER OF SCIENCE
+         - GRADUATED: 2021
          
    >  - UNIVERSITY OF BRASILIA - UnB
          - MECHATRONIC SYSTEMS ENGINEERING - MASTER OF SCIENCE
