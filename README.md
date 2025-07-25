@@ -1,7 +1,7 @@
  ### Hi there 👋 I am Witenberg Souza \o/
 
 ## About me
-   > Houdie ! My name is Witenbeg Souza, AKA WitzRed. I have a Master's in Electrical Engineering  through Northern Illinois University. My focus is on Statistical Detection Theory and Machine Learning.
+   > Houdie ! My name is Witenbeg Souza. I have a Master's in Electrical Engineering  through Northern Illinois University. My focus is on Statistical Detection Theory and Machine Learning.
    
   #### What are my hobbies?
    > I believe no one can be defined by only one aspect of their lives. Thus, I am always experimenting... creating new engineering projects, sharing ideas, diving into collabs, testing my embbeded devices, and when I have some spare time, trying new recipies in the kitchen.
